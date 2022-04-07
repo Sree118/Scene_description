@@ -29,5 +29,5 @@ The attention Based Mechanism is used for caption generation. I have used Bahdan
 ![Screenshot (372)](https://user-images.githubusercontent.com/52888140/162217776-558faaad-3987-4d8c-894b-5dae6990bb53.png)
 
 
-#Note :
+# Note :
 This is a phase 1 model, as I will be improving it using transforms or GPT3 model
